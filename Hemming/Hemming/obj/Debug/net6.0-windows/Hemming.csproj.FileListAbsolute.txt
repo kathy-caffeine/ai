@@ -1,0 +1,54 @@
+C:\Users\varka\Documents\4course1sem\ИИ Основы искусственного интеллекта\Hemming\Hemming\bin\Debug\net6.0-windows\Hemming.exe
+C:\Users\varka\Documents\4course1sem\ИИ Основы искусственного интеллекта\Hemming\Hemming\bin\Debug\net6.0-windows\Hemming.deps.json
+C:\Users\varka\Documents\4course1sem\ИИ Основы искусственного интеллекта\Hemming\Hemming\bin\Debug\net6.0-windows\Hemming.runtimeconfig.json
+C:\Users\varka\Documents\4course1sem\ИИ Основы искусственного интеллекта\Hemming\Hemming\bin\Debug\net6.0-windows\Hemming.dll
+C:\Users\varka\Documents\4course1sem\ИИ Основы искусственного интеллекта\Hemming\Hemming\bin\Debug\net6.0-windows\Hemming.pdb
+C:\Users\varka\Documents\4course1sem\ИИ Основы искусственного интеллекта\Hemming\Hemming\bin\Debug\net6.0-windows\MathNet.Numerics.dll
+C:\Users\varka\Documents\4course1sem\ИИ Основы искусственного интеллекта\Hemming\Hemming\bin\Debug\net6.0-windows\MathNet.Numerics.xml
+C:\Users\varka\Documents\4course1sem\ИИ Основы искусственного интеллекта\Hemming\Hemming\obj\Debug\net6.0-windows\Hemming.csproj.AssemblyReference.cache
+C:\Users\varka\Documents\4course1sem\ИИ Основы искусственного интеллекта\Hemming\Hemming\obj\Debug\net6.0-windows\Hemming.csproj.GenerateResource.cache
+C:\Users\varka\Documents\4course1sem\ИИ Основы искусственного интеллекта\Hemming\Hemming\obj\Debug\net6.0-windows\Hemming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varka\Documents\4course1sem\ИИ Основы искусственного интеллекта\Hemming\Hemming\obj\Debug\net6.0-windows\Hemming.AssemblyInfoInputs.cache
+C:\Users\varka\Documents\4course1sem\ИИ Основы искусственного интеллекта\Hemming\Hemming\obj\Debug\net6.0-windows\Hemming.AssemblyInfo.cs
+C:\Users\varka\Documents\4course1sem\ИИ Основы искусственного интеллекта\Hemming\Hemming\obj\Debug\net6.0-windows\Hemming.csproj.CoreCompileInputs.cache
+C:\Users\varka\Documents\4course1sem\ИИ Основы искусственного интеллекта\Hemming\Hemming\obj\Debug\net6.0-windows\Hemming.csproj.CopyComplete
+C:\Users\varka\Documents\4course1sem\ИИ Основы искусственного интеллекта\Hemming\Hemming\obj\Debug\net6.0-windows\Hemming.dll
+C:\Users\varka\Documents\4course1sem\ИИ Основы искусственного интеллекта\Hemming\Hemming\obj\Debug\net6.0-windows\refint\Hemming.dll
+C:\Users\varka\Documents\4course1sem\ИИ Основы искусственного интеллекта\Hemming\Hemming\obj\Debug\net6.0-windows\Hemming.pdb
+C:\Users\varka\Documents\4course1sem\ИИ Основы искусственного интеллекта\Hemming\Hemming\obj\Debug\net6.0-windows\Hemming.genruntimeconfig.cache
+C:\Users\varka\Documents\4course1sem\ИИ Основы искусственного интеллекта\Hemming\Hemming\obj\Debug\net6.0-windows\ref\Hemming.dll
+C:\Users\varka\Documents\4course1sem\ИИ Основы искусственного интеллекта\Hemming\Hemming\obj\Debug\net6.0-windows\Hemming.FormHemming.resources
+C:\Users\varka\Documents\4course1sem\ИИ Основы искусственного интеллекта\лаба 1 Хемминг\Hemming\Hemming\obj\Debug\net6.0-windows\Hemming.csproj.AssemblyReference.cache
+C:\Users\varka\Documents\4course1sem\ИИ Основы искусственного интеллекта\лаба 1 Хемминг\Hemming\Hemming\obj\Debug\net6.0-windows\Hemming.FormHemming.resources
+C:\Users\varka\Documents\4course1sem\ИИ Основы искусственного интеллекта\лаба 1 Хемминг\Hemming\Hemming\obj\Debug\net6.0-windows\Hemming.csproj.GenerateResource.cache
+C:\Users\varka\Documents\4course1sem\ИИ Основы искусственного интеллекта\лаба 1 Хемминг\Hemming\Hemming\obj\Debug\net6.0-windows\Hemming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varka\Documents\4course1sem\ИИ Основы искусственного интеллекта\лаба 1 Хемминг\Hemming\Hemming\obj\Debug\net6.0-windows\Hemming.AssemblyInfoInputs.cache
+C:\Users\varka\Documents\4course1sem\ИИ Основы искусственного интеллекта\лаба 1 Хемминг\Hemming\Hemming\obj\Debug\net6.0-windows\Hemming.AssemblyInfo.cs
+C:\Users\varka\Documents\4course1sem\ИИ Основы искусственного интеллекта\лаба 1 Хемминг\Hemming\Hemming\obj\Debug\net6.0-windows\Hemming.csproj.CoreCompileInputs.cache
+C:\Users\varka\Documents\4course1sem\ИИ Основы искусственного интеллекта\лаба 1 Хемминг\Hemming\Hemming\obj\Debug\net6.0-windows\Hemming.dll
+C:\Users\varka\Documents\4course1sem\ИИ Основы искусственного интеллекта\лаба 1 Хемминг\Hemming\Hemming\obj\Debug\net6.0-windows\refint\Hemming.dll
+C:\Users\varka\Documents\4course1sem\ИИ Основы искусственного интеллекта\лаба 1 Хемминг\Hemming\Hemming\obj\Debug\net6.0-windows\Hemming.pdb
+C:\Users\varka\Documents\4course1sem\ИИ Основы искусственного интеллекта\лаба 1 Хемминг\Hemming\Hemming\bin\Debug\net6.0-windows\Hemming.exe
+C:\Users\varka\Documents\4course1sem\ИИ Основы искусственного интеллекта\лаба 1 Хемминг\Hemming\Hemming\bin\Debug\net6.0-windows\Hemming.deps.json
+C:\Users\varka\Documents\4course1sem\ИИ Основы искусственного интеллекта\лаба 1 Хемминг\Hemming\Hemming\bin\Debug\net6.0-windows\Hemming.runtimeconfig.json
+C:\Users\varka\Documents\4course1sem\ИИ Основы искусственного интеллекта\лаба 1 Хемминг\Hemming\Hemming\bin\Debug\net6.0-windows\Hemming.dll
+C:\Users\varka\Documents\4course1sem\ИИ Основы искусственного интеллекта\лаба 1 Хемминг\Hemming\Hemming\bin\Debug\net6.0-windows\Hemming.pdb
+C:\Users\varka\Documents\4course1sem\ИИ Основы искусственного интеллекта\лаба 1 Хемминг\Hemming\Hemming\obj\Debug\net6.0-windows\Hemming.genruntimeconfig.cache
+C:\Users\varka\Documents\4course1sem\ИИ Основы искусственного интеллекта\лаба 1 Хемминг\Hemming\Hemming\obj\Debug\net6.0-windows\ref\Hemming.dll
+C:\Users\User\source\repos\Hemming\Hemming\bin\Debug\net6.0-windows\Hemming.exe
+C:\Users\User\source\repos\Hemming\Hemming\bin\Debug\net6.0-windows\Hemming.deps.json
+C:\Users\User\source\repos\Hemming\Hemming\bin\Debug\net6.0-windows\Hemming.runtimeconfig.json
+C:\Users\User\source\repos\Hemming\Hemming\bin\Debug\net6.0-windows\Hemming.dll
+C:\Users\User\source\repos\Hemming\Hemming\bin\Debug\net6.0-windows\Hemming.pdb
+C:\Users\User\source\repos\Hemming\Hemming\obj\Debug\net6.0-windows\Hemming.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Hemming\Hemming\obj\Debug\net6.0-windows\Hemming.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Hemming\Hemming\obj\Debug\net6.0-windows\Hemming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Hemming\Hemming\obj\Debug\net6.0-windows\Hemming.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Hemming\Hemming\obj\Debug\net6.0-windows\Hemming.AssemblyInfo.cs
+C:\Users\User\source\repos\Hemming\Hemming\obj\Debug\net6.0-windows\Hemming.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Hemming\Hemming\obj\Debug\net6.0-windows\Hemming.dll
+C:\Users\User\source\repos\Hemming\Hemming\obj\Debug\net6.0-windows\refint\Hemming.dll
+C:\Users\User\source\repos\Hemming\Hemming\obj\Debug\net6.0-windows\Hemming.pdb
+C:\Users\User\source\repos\Hemming\Hemming\obj\Debug\net6.0-windows\Hemming.genruntimeconfig.cache
+C:\Users\User\source\repos\Hemming\Hemming\obj\Debug\net6.0-windows\ref\Hemming.dll
+C:\Users\User\source\repos\Hemming\Hemming\obj\Debug\net6.0-windows\Hemming.HemmingAlg.resources

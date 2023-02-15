@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\AnnealingSimulation\AnnealingSimulation\bin\Debug\net6.0-windows\AnnealingSimulation.exe
+C:\Users\User\source\repos\AnnealingSimulation\AnnealingSimulation\bin\Debug\net6.0-windows\AnnealingSimulation.deps.json
+C:\Users\User\source\repos\AnnealingSimulation\AnnealingSimulation\bin\Debug\net6.0-windows\AnnealingSimulation.runtimeconfig.json
+C:\Users\User\source\repos\AnnealingSimulation\AnnealingSimulation\bin\Debug\net6.0-windows\AnnealingSimulation.dll
+C:\Users\User\source\repos\AnnealingSimulation\AnnealingSimulation\bin\Debug\net6.0-windows\AnnealingSimulation.pdb
+C:\Users\User\source\repos\AnnealingSimulation\AnnealingSimulation\obj\Debug\net6.0-windows\AnnealingSimulation.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\AnnealingSimulation\AnnealingSimulation\obj\Debug\net6.0-windows\AnnealingSimulation.Form1.resources
+C:\Users\User\source\repos\AnnealingSimulation\AnnealingSimulation\obj\Debug\net6.0-windows\AnnealingSimulation.csproj.GenerateResource.cache
+C:\Users\User\source\repos\AnnealingSimulation\AnnealingSimulation\obj\Debug\net6.0-windows\AnnealingSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\AnnealingSimulation\AnnealingSimulation\obj\Debug\net6.0-windows\AnnealingSimulation.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AnnealingSimulation\AnnealingSimulation\obj\Debug\net6.0-windows\AnnealingSimulation.AssemblyInfo.cs
+C:\Users\User\source\repos\AnnealingSimulation\AnnealingSimulation\obj\Debug\net6.0-windows\AnnealingSimulation.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AnnealingSimulation\AnnealingSimulation\obj\Debug\net6.0-windows\AnnealingSimulation.dll
+C:\Users\User\source\repos\AnnealingSimulation\AnnealingSimulation\obj\Debug\net6.0-windows\refint\AnnealingSimulation.dll
+C:\Users\User\source\repos\AnnealingSimulation\AnnealingSimulation\obj\Debug\net6.0-windows\AnnealingSimulation.pdb
+C:\Users\User\source\repos\AnnealingSimulation\AnnealingSimulation\obj\Debug\net6.0-windows\AnnealingSimulation.genruntimeconfig.cache
+C:\Users\User\source\repos\AnnealingSimulation\AnnealingSimulation\obj\Debug\net6.0-windows\ref\AnnealingSimulation.dll

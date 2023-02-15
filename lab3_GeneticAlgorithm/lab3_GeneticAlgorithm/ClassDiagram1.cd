@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="lab3_GeneticAlgorithm.Params">
+    <Position X="1.75" Y="1.25" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="lab3_GeneticAlgorithm.Params.FunctionForAlg" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Params.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>BAAAEAAAAEAAAAAAAIAAAgAAAAACAAAAAIQAAAAAAiQ=</HashCode>
+      <FileName>Params.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab3_GeneticAlgorithm.GeneticAlg">
+    <Position X="4" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgACAQAAAAAAAQBAgAAAQAAggAAIAQAAAAAAAIAAAI=</HashCode>
+      <FileName>GeneticAlg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab3_GeneticAlgorithm.Chromosome">
+    <Position X="6.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAEACAAAAAAAAAAAAAAAAQAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Chromosome.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

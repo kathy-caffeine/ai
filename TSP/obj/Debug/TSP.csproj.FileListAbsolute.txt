@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\TSP\bin\Debug\Cities.txt
+C:\Users\User\source\repos\TSP\bin\Debug\TSP.exe
+C:\Users\User\source\repos\TSP\bin\Debug\TSP.pdb
+C:\Users\User\source\repos\TSP\obj\Debug\TSP.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\TSP\obj\Debug\TSP.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TSP\obj\Debug\TSP.exe
+C:\Users\User\source\repos\TSP\obj\Debug\TSP.pdb

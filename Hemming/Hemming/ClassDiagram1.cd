@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Hemming.ALayer">
+    <Position X="14.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAgAAAAAAAAAAIAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ALayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hemming.Hemming">
+    <Position X="11.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAACAAAAAgAIEgAQAAAAA=</HashCode>
+      <FileName>Hemming.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hemming.Layer" Collapsed="true">
+    <Position X="13.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAQAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Layer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.719" />
+  </Class>
+  <Class Name="Hemming.Painter">
+    <Position X="13" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEgAAgAAAAIAAgAAAAABAAAAAAAAAAIAAAAAAAAABAA=</HashCode>
+      <FileName>Painter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hemming.SLayer">
+    <Position X="10.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SLayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hemming.YLayer">
+    <Position X="16.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>YLayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hemming.ZLayer">
+    <Position X="12.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAgAAAAAAAAAAAAQAAACAEAAAAAIAAA=</HashCode>
+      <FileName>ZLayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Hemming.IInputNeuronSignal">
+    <Position X="14.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>IInputNeuronSignal.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Hemming.INeuronSignal">
+    <Position X="16.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IOutputNeuronSignal.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

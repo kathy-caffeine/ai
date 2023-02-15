@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Genetic_algorithm.Individual.DecimalIndividual">
+    <Position X="6.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAACAABA=</HashCode>
+      <FileName>Individual\DecimalIndividual.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Genetic_algorithm.Individual.BinaryIndividual">
+    <Position X="1" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAACAABA=</HashCode>
+      <FileName>Individual\BinaryIndividual.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Genetic_algorithm.Algorithm.BinaryGenetic" BaseTypeListCollapsed="true">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAIAAgAAAAACBAAKAECCAQAAQCAAAADAAAAAAAGAI=</HashCode>
+      <FileName>Algorithm\BinaryGenetic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Genetic_algorithm.Algorithm.DecimalGenetic" BaseTypeListCollapsed="true">
+    <Position X="4.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAIAAgAAAAACAAAKAECCAQAAQCAAAABAAAAAAACAI=</HashCode>
+      <FileName>Algorithm\DecimalGenetic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="Genetic_algorithm.Abstractions.IGeneticAlgorithm">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Abstractions\IGeneticAlgorithm.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
